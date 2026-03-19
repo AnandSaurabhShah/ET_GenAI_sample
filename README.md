@@ -162,8 +162,8 @@ With **6,594 teams competing**, this project stands out by:
 
 1. **Clone the repository**
 ```bash
-git clone <repository-url>
-cd ET_GenAI_Hackathon
+git clone https://github.com/AnandSaurabhShah/ET_GenAI_sample.git
+cd ET_GenAI_sample
 ```
 
 2. **Create virtual environment**
@@ -368,5 +368,6 @@ With 6,594 teams competing, this project stands out because:
 ---
 
 **Built with ❤️ for the ET GenAI Hackathon 2026**
-#   E T _ G e n A I _ s a m p l e  
+#   E T _ G e n A I _ s a m p l e 
+ 
  
